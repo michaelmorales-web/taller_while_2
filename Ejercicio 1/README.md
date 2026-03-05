@@ -18,7 +18,7 @@ Programa en Python usando el comando while para determinar si la contraseña par
 - ![diagrama de flujo](diagrama.png)
 
 ## Referencia
-- ![alt text](captura_primer_programa.jpg)
+- ![alt text](captura_primer_ejercicio.jpg)
 
 ## Construcción
 - Programa digitado en el archivo ejercicio_1.py
