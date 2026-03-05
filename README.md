@@ -12,4 +12,6 @@ Programa de juego
 ![alt text](image-1.png)
 
 # ejercicio_3
-Programa
+Programa de juego para adivinar
+
+![alt text](image-2.png)
