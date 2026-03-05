@@ -5,3 +5,11 @@ Taller para hacer el uso del comando while en Python en tres ejercicios
 Programa para ingresar a una aplicación mediante una contraseña
 
 ![alt text](image.png)
+
+# ejercicio_2
+Programa de juego
+
+![alt text](image-1.png)
+
+# ejercicio_3
+Programa
