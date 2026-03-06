@@ -15,3 +15,8 @@ Programa de juego
 Programa de juego para adivinar
 
 ![alt text](image-2.png)
+
+# ejercicio_4
+Programa para calcular en que cantidad de rebotes una pelota va a dejar de revotar mas de la quinta parte de su longitud
+
+
