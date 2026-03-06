@@ -4,6 +4,7 @@ import random
 
 pc_number = random.randint(1, 100)
 player_number = 0
+fallas = 1
 
 print()
 print("Bienvenido al juego de adivinar el número!")
@@ -20,6 +21,8 @@ while player_number != pc_number:
     else:
         print("El número es menor que", player_number)
     player_number = int(input("Ingresa tu número: "))
-
+    fallas += 1
 print("Felicidades! adivinaste el número!!")
-input()
+print("Lo lograste en: " + str(fallas) + " intentos ")
+exit()
+

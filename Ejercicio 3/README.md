@@ -21,7 +21,7 @@ while player_number != pc_number:
 - player_number
 
 ## Diseño
-- ![diagrama de flujo](diagram.png)
+- ![diagrama de flujo](diagrama.png)
 
 ## Referencia
 - ![imagen](captura_tercer_programa.jpg)
