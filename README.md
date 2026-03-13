@@ -21,3 +21,7 @@ Programa para calcular en que cantidad de rebotes una pelota va a dejar de revot
 
 ![alt text](image-3.png)
 
+# ejercicio_5
+Este programa calcula en cuantos meses Pedro y Juan podran reunir el dinero necesario para un negocio. Pedro invierte su dinero  con un interes compuesto del 3% mensual. Juan invierte su dinero con un interes compuesto del 4% mensual
+
+![alt text](image-4.png)
