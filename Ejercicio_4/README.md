@@ -10,7 +10,7 @@ Programa para calcular en que cantidad de rebotes una pelota va a dejar de revot
  - n =0
  q = h / 5
  h > q
- h = h - 0.1 h
+ h = h - 0.5 h
  n = n + 1
 
 ### Variable de salida
